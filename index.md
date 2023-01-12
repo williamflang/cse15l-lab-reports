@@ -4,7 +4,13 @@
 
 > Block text?
 
+---
+
 *I like*
 - this
 - this
 - and this
+
+I'm gonna put some `code` in the middle.
+
+[something](https://williamflang.github.io/cse-15l-lab-report/something.html)
