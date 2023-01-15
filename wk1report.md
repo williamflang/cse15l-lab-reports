@@ -2,7 +2,7 @@
 
 ## Part 1 - Set up a coding environment
 
-First, we will be setting up a coding environment. This will not only allow you to work on projects, but it will also provide a convenient way to use the terminal for file navigation and, crucially, connecting to our remote servers. Install [Visual Studio Code](https://code.visualstudio.com/) by clicking on the link and following the installation instructions on the site. After successful installation, open the application and you should see a screen like this (possibly with some different colors or other settings):
+First, we will be setting up a coding environment. It will provide a convenient way to use the terminal, which we will need to connect to the CSE remote servers for account access. Install [Visual Studio Code](https://code.visualstudio.com/) by clicking on the link, and follow the installation instructions on the site. After successful installation, open the application and you should see a screen like this:
 
 ## Part 2 - Set up your CSE15L account
 
