@@ -113,4 +113,4 @@ The old version of the program changed the first half of the indices to the corr
 
 ## Part 3
 
-In week 2's lab how to host local networks. I always assumed previosuly that servers were intrinsically remote objects, so it was illuminating to learn that they can be hosted on a local client as well.
+In week 2's lab I learned how to host local networks. I always assumed previosuly that servers were intrinsically remote objects, so it was illuminating to learn that they can be hosted on a local client as well.
