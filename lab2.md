@@ -46,13 +46,13 @@ it:
 
 This is what the site displays after requesting `/add-message?s=Hello`:
 
-![Image]=(hello.png)
+![Image](hello.png)
 
 This request first executes `main` in `StringServer` which takes the port number in the URL and passes it as an argument to the `start` method from the `Server` class. Then `handleRequest` is called, which takes the URL as an argument and parses the path and query. In this case, the string `"Hello"` is concatenated to the field `str` which is set to the empty string `""` by default.
 
 This is what the site displays after requesting `/add-message?s=123`:
 
-![Image]=(123.png)
+![Image](123.png)
 
 This request induces much of the same execution as the previous request. However, now that `str` is no longer empty, the request concatenates the new line character `\n` before `123`. So we now have `str.equals("Hello\n123")`.
 
@@ -83,7 +83,7 @@ Let's look at the `reverseInPlace` method from the `ArrayExamples` class. Here a
 
 This is the output that was produced by running these JUnit tests:
 
-![Image]=(symptom.png)
+![Image](symptom.png)
 
 This is what the buggy code looks like:
 
