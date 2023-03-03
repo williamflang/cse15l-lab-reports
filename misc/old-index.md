@@ -13,4 +13,4 @@
 
 I'm gonna put some `code` in the middle.
 
-[something](https://williamflang.github.io/cse15l-lab-reports/something.html)
+[something](https://williamflang.github.io/cse15l-lab-reports/misc/something.html)
