@@ -4,8 +4,3 @@
 - [Lab 2](https://williamflang.github.io/cse15l-lab-reports/lab2/lab2.html)
 - [Lab 3](https://williamflang.github.io/cse15l-lab-reports/lab3/lab3.html)
 - [Lab 4](https://williamflang.github.io/cse15l-lab-reports/lab4/lab4.html)
-
-## Other things
-
-- [old-index](https://williamflang.github.io/cse15l-lab-reports/misc/old-index.html)
-- [something](https://williamflang.github.io/cse15l-lab-reports/misc/something.html)
