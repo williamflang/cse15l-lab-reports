@@ -7,5 +7,5 @@
 
 ## Other things
 
-- [old-index](https://williamflang.github.io/cse15l-lab-reports/misc/index.html)
+- [old-index](https://williamflang.github.io/cse15l-lab-reports/misc/old-index.html)
 - [something](https://williamflang.github.io/cse15l-lab-reports/misc/something.html)
